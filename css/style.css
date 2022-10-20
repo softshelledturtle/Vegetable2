@@ -1,0 +1,221 @@
+.body-container{
+    width: 1260px;
+    height: 880px;
+    padding: 36px 160px 35px;
+    background-color: #edf2c5;
+    box-sizing: border-box; 
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+
+.header-title{
+    width: 271px;
+    height: 62px;
+    margin: 0 0px 0px 0;
+    text-align: left;
+    line-height: 0.82;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    color: #778a50;
+}
+
+.bar{
+    display: flex;
+    gap: 10px;
+    height: 25px;
+    margin-bottom: 0%;
+}
+
+.line{
+    width: 1px;
+    height: 25px;
+    margin: 0 10px 18px;
+    background-color: #778a50;
+}
+
+.bar-button{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 0px;
+    height: 25px;
+}
+
+.textbox{
+    width: 60px;
+    height: 25px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.7;
+    letter-spacing: normal;
+    color: #778a50;
+    border: 1px solid  #778a50;
+    text-align:center;
+    border-radius:5px;
+}
+
+.nav-list{
+    display: flex;
+    position: relative;
+    width: 940px;
+    height: 44px;
+    margin: 0;
+    padding: 0;
+    border-radius: 3px;
+    background-color: #778a50;
+    box-sizing: border-box;
+}
+
+.nav-list-item{
+    padding: 10px 30px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 16px;
+    font-weight: 1000;
+    color: #edf2c5;
+    display: block;
+}
+
+img.img_main_pumpkin {
+    width: 940px;
+    height: 448px;
+    margin: 20px 0 30px;
+    object-fit: contain;
+  }
+
+.content {
+    display: flex;
+    height: 200px;
+    justify-content: space-between;
+  }
+
+  .aside-box-veg {
+    width: 428px;
+    height: 45px;
+    margin: 30px 52px 15px 0;
+    border-radius: 3px;
+    background-color: #778a50;
+    box-sizing: border-box;
+  }
+
+  .aside-box-veg p{
+    width: 98px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    margin-left: 30px;
+    font-style: normal;
+    line-height: 2.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+  }
+
+.img-three{
+    width:100%;
+    object-fit: contain;
+    justify-content:space-between;
+}
+
+.aside-contact{
+    width: 444px;
+    height: 45px;
+    margin: 30px 12px 12px 15px;
+    border-radius: 3px;
+    background-color: #778a50;
+    box-sizing: border-box;
+}
+
+.aside-contact p{
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.75;
+    margin-left: 30px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+}
+
+.aside-contact-text{
+    width: 444px;
+    height: 140px;
+    margin: 12px 0 0 15px;
+    padding: 15px;
+    background-color: #f7fbda;
+    box-sizing: border-box;
+}
+
+.text1{
+    width: 414px;
+    height: 44px;
+    margin: 0 0 15px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+}
+
+.text-line{
+    width: 414px;
+    height: 1px;
+    margin: 15px 0;
+    background-color: #7d7d7d;
+}
+
+.text2{
+    width: 197px;
+    height: 35px;
+    margin: 15px 217px 0 0;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.75;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7d7d7d;
+}
+
+.footer{
+    width: 1260px;
+    padding: 23px 479px 23px 480px;
+    background-color: #778a50;
+    box-sizing: border-box;
+}
+
+.footer p{
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #edf2c5;
+    box-sizing: border-box;
+}
